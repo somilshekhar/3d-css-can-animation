@@ -12,7 +12,7 @@ Check out the **live demo** here: [3d-css-can-animation.vercel.app](https://3d-c
 
 ## 🎬 Demo
 
-![3D Can Animation](https://media.giphy.com/media/3o7aD4A1e9lRskc5EY/giphy.gif)  
+![3D Can Animation]("C:\Users\somil shekhar\Downloads\Untitled video - Made with Clipchamp (1).mp4")  
 *Preview of the 3D can animation.*
 
 ---
